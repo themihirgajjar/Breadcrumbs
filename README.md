@@ -2,7 +2,7 @@
 
 Breadcrumbs by Mihir Girishbhai Gajjar
 
-Video overview: <https://youtu.be/_xROidsfBJU>
+Video overview: [Click Here](https://youtu.be/_xROidsfBJU)
 
 
 ## Scope
@@ -32,7 +32,6 @@ This version does not support user interactions such as leaving reviews or uploa
 ## Representation
 
 ### Entities
-
 
 ### Which entities are represented in your database, why?
 
@@ -64,10 +63,7 @@ Traffic View: The core of the "Popular Times" feature, this view averages transa
 
 ## Limitations
 
-In this section you should answer the following questions:
-
 ### What are the limitations of your design?
-### What might your database not be able to represent very well?
 
 Limited User Base: The current design only accommodates businesses, while a full-fledged app would require functionality for customers as well. Expanding the database to include customer interactions (e.g., reviews, photos) would significantly increase its complexity.
 
